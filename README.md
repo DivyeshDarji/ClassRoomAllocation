@@ -1,4 +1,4 @@
-# ClassroomAllocation
+# Classroom Allocation System
 This project is a Classroom Allocation System. It was made to help the Course Co-ordinators of the college to allocate classrooms according to their requirement. The classrooms will be allocated based on the capacity entered by the user. It has following sections:
 
 Admin Panel: The admin will manage(add, update and delete) the initial details and can also view the allocations. Following are the tasks given to the admin:
@@ -38,3 +38,4 @@ These instructions will help you to view the project by running it on your local
 4. Inside the Browser -> type : localhost/project
 5. Login details of the admin: ID: darji@gmail.com and Password: darji@123
 6. Login details of the user: sharvarinaik@gmail.com and Password: sharvarinaik
+7. You can add more users through the admin panel 
