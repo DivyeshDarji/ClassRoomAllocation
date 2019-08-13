@@ -27,17 +27,3 @@ Backend:
 Database:
 1. MYSQL
 
-
-#Getting Started
-These instructions will get you a copy of the app and running on your local machine for development & learning purposes:
-•	Fork/Clone-Download the repo to your personal Github account
-•	Save this Project inside the Xampp -> htdocs 
-•	Open Project folder navigate to project directory & follow the commands
-  o	Look for SQL file available inside the project folder: Project/SQL/wp_projects.sql
-  o	Go to PhpMyAdmin -> Import -> Choose File -> Go
-  o	Your database is ready!
-•	Inside the Browser -> type : localhost/project
-  o	Login: darji@gmail.com (admin)
-  o	Password: darji@123
-  o	Login: sharvarinaik@gmail.com (user)
-  o	Password: sharvarinaik
