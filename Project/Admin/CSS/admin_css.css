@@ -1,0 +1,66 @@
+#sidebar
+{
+	position:fixed;
+	top:51px;
+	left: 110px;
+	margin-left: -134px;
+	bottom: 0;
+	float:left;
+	width:230px;
+	overflow-x:hidden;
+	overflow-y:auto;
+	height:100%;
+}
+			
+#sidebar li
+{
+	list-style: none;
+	text-align:left;
+	margin-top: 5px;
+}
+			
+#sidebar li a:hover,
+#sidebar li a:focus
+{
+	color: white;
+}
+			
+#sidebar li a
+{
+	display:block;
+	text-decoration:none;
+	color: grey;
+	padding:8px;
+	font-size: 18;
+}
+
+.side-nav-heading
+{
+	color: white;
+	padding:8px;
+	text-decoration: underline;
+}
+
+.logout
+{
+	text-decoration: none;
+	padding: 8px;
+	color:grey;
+}
+
+#page-wrapper
+{
+	margin-left:200px;
+}
+
+#view_table tr th,td
+{
+	text-align:center;
+}
+
+.footer
+{
+	bottom:0;
+	position:fixed;
+	color:white;
+}

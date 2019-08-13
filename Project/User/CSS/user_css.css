@@ -1,0 +1,91 @@
+#sidebar
+{
+	position:fixed;
+	top:51px;
+	left: 110px;
+	margin-left: -134px;
+	bottom: 0;
+	float:left;
+	width:230px;
+	overflow-x:hidden;
+	overflow-y:auto;
+	height:100%;
+}
+			
+#sidebar li
+{
+	list-style: none;
+	text-align:left;
+	margin-top: 5px;
+}
+			
+#sidebar li a:hover,
+#sidebar li a:focus
+{
+	color: white;
+}
+			
+#sidebar li a
+{
+	display:block;
+	text-decoration:none;
+	color: grey;
+	padding:8px;
+	font-size: 18;
+}
+
+.side-nav-heading
+{
+	color: white;
+	padding:8px;
+	text-decoration: underline;
+}
+
+.logout
+{
+	text-decoration: none;
+	padding: 8px;
+	color:grey;
+}
+
+.card_course_link
+{
+	text-decoration: none;
+}
+
+#page-wrapper
+{
+	margin-left:200px;
+
+}
+
+
+.footer
+{
+	color:white;
+	position:fixed;
+	bottom:0;
+}
+
+ul.breadcrumb {
+    padding: 10px 16px;
+    list-style: none;
+    background-color: #eee;
+}
+ul.breadcrumb li {
+    display: inline;
+    font-size: 18px;
+}
+ul.breadcrumb li+li:before {
+    padding: 8px;
+    color: black;
+    content: "/\00a0";
+}
+ul.breadcrumb li a {
+    color: #0275d8;
+    text-decoration: none;
+}
+ul.breadcrumb li a:hover {
+    color: #01447e;
+    text-decoration: underline;
+}
