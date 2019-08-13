@@ -27,3 +27,14 @@ Backend:
 Database:
 1. MYSQL
 
+
+
+# Getting Started:
+
+These instructions will help you to view the project by running it on your local host:
+1. Fork/Clone-Download the repository
+2. Save it inside the xampp -> htdocs directory
+3. Look for SQL file available inside the project folder: Project/SQL/wp_projects.sql. Import this .sql file inside a database named as “wp_projects”
+4. Inside the Browser -> type : localhost/project
+5. Login details of the admin: ID: darji@gmail.com and Password: darji@123
+6. Login details of the user: sharvarinaik@gmail.com and Password: sharvarinaik
